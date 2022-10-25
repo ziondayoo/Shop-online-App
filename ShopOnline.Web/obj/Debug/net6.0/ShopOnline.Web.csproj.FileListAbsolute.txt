@@ -36,6 +36,9 @@ C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwr
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Web.dll
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Web.pdb
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
@@ -208,6 +211,7 @@ C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwr
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
@@ -262,6 +266,7 @@ C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwr
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
@@ -276,6 +281,7 @@ C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwr
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
@@ -422,6 +428,7 @@ C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Micr
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Microsoft.JSInterop.dll
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\System.IO.Pipelines.dll
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Microsoft.CSharp.dll
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
@@ -596,6 +603,8 @@ C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\icud
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\icudt_CJK.dat
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\icudt_EFIGS.dat
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.dll
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.pdb
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.csproj.AssemblyReference.cache
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.AssemblyInfoInputs.cache
@@ -624,6 +633,7 @@ C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\buil
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\TuAI9Bnh.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\Xn+Vi9cz.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\qbFcxuu4.gz
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\J+KYkslJ.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\x0ws4FQu.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\jPOCmDIc.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\dZxe7Ypv.gz
@@ -798,12 +808,17 @@ C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\buil
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\Pq8AYgCV.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\batBlbLM.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\ZC5gRN+q.gz
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\32PwCON5.gz
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\Glylet5o.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\WBTlD8+3.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\Fo+03rHc.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\2QyAW9jJ.gz
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\blazor.boot.json
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
+C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\ShoppingCart.razor.rz.scp.css
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\bundle\ShopOnline.Web.styles.css
@@ -813,18 +828,3 @@ C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\Shop
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\refint\ShopOnline.Web.dll
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ShopOnline.Web.pdb
 C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\ref\ShopOnline.Web.dll
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.dll.gz
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\ShopOnline.Models.pdb.gz
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.dll
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\ShopOnline.Models.pdb
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\32PwCON5.gz
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\Glylet5o.gz
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\build-gz\J+KYkslJ.gz
-C:\Users\Decagon\Desktop\ShopOnlineSolution\ShopOnline.Web\obj\Debug\net6.0\scopedcss\Pages\ShoppingCart.razor.rz.scp.css
