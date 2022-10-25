@@ -63,7 +63,7 @@ namespace ShopOnline.Web.Services
             }
         }
 
-        public async Task<List<CartItemDto>> GetItems(int userId)
+        public async Task<List<CartItemDto>> Getitems(int userId)
         {
             try
             {
@@ -88,10 +88,14 @@ namespace ShopOnline.Web.Services
                 throw;
             }
         }
+        public Task<List<CartItemDto>> GetItems(int userId)
+        {
+            throw new NotImplementedException();
+        }
 
         public void RaiseEventOnShoppingCartChanged(int totalQty)
         {
-            if(OnShoppingCartChanged != null)
+          if (OnShoppingCartChanged != null)
             {
                 OnShoppingCartChanged.Invoke(totalQty);
             }
@@ -103,7 +107,8 @@ namespace ShopOnline.Web.Services
             {
                 var jsonRequest = JsonConvert.SerializeObject(cartItemQtyUpdateDto);
                 var content = new StringContent(jsonRequest, Encoding.UTF8, "application/json-patch+json");
-                var response = await httpClient.PatchAsync($"api/ShoppingCart/{cartItemQtyUpdateDto.CartItemId}", content);
+                var response = await httpClient.PatchAsync($"app/ShoppingCart/{cartItemQtyUpdateDto.CartItemId}", content);
+                
                 if(response.IsSuccessStatusCode)
                 {
                     return await response.Content.ReadFromJsonAsync<CartItemDto>();
@@ -112,9 +117,11 @@ namespace ShopOnline.Web.Services
             }
             catch (Exception)
             {
-
+                //Log exception
                 throw;
             }
         }
+
+       
     }
 }
